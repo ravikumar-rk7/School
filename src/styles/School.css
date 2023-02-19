@@ -1,6 +1,17 @@
+
 body{
     background-color: darkgray;
 }
-.image1{
-    background-image: url("images/successful-child-with-graduation-cap-backpack-full-books_1098-3455.webp");
+.image{
+    position: relative;
+    text-align: center;
 }
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin-bottom: 400px;
+  }
+  .nav-item :hover {
+    color: black;
+  }
